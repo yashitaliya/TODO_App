@@ -35,11 +35,11 @@ This app enables users to register or log in securely, add tasks with details, m
 
 | Sign-Up | Login | Task List |
 |--------|-------|-----------|
-| ![Sign-Up](screenshots/signup.png) | ![Login](screenshots/login.png) | ![Task List](screenshots/tasklist.png) |
+| ![Sign-Up](Screenshots/signup.png) | ![Login](Screenshots/login1.png) | ![Task List](Screenshots/task_list.png) |
 
 | Add Task | Complete | Delete |
 |----------|----------|--------|
-| ![Add](screenshots/add.png) | ![Complete](screenshots/completed.png) | ![Delete](screenshots/delete.png) |
+| ![Add](Screenshots/add_task.png) | ![Complete](Screenshots/completed_task.png) | ![Delete](Screenshots/delete_task.jpg) |
 
 ---
 
